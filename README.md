@@ -4,15 +4,15 @@ Hero-19 is an educational game developed as a project. It combines elements of a
 <br>The game was developed using Unity and features contributions from a diverse team of engineers/programmers, artists and designers.
 <br>
 <br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/1.PNG?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/2.PNG?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/3.PNG?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/4.PNG?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/5.PNG?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/6.jpg?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/player.png?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/police.png?raw=true)<br>
-![alt text](https://github.com/Tomas6556/Hero-19/blob/main/website.jpg?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/1.PNG?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/2.PNG?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/3.PNG?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/4.PNG?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/5.PNG?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/6.jpg?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/player.png?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/police.png?raw=true)<br>
+![alt text](https://github.com/Tomas6556/Hero-19-Unity-Game/blob/main/website.jpg?raw=true)<br>
 <br>
 **Features**: <br>
 <br>
