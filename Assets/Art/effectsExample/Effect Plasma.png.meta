@@ -1,0 +1,2292 @@
+fileFormatVersion: 2
+guid: a9a7240b4a657904ca38fc73585ac78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1996526155089634166
+    second: Effect Plasma_0
+  - first:
+      213: -819595904196473903
+    second: Effect Plasma_1
+  - first:
+      213: -7003735665418881695
+    second: Effect Plasma_2
+  - first:
+      213: 8424021124537661566
+    second: Effect Plasma_3
+  - first:
+      213: 7586946397133791734
+    second: Effect Plasma_4
+  - first:
+      213: 914350243543827646
+    second: Effect Plasma_5
+  - first:
+      213: 5480927719239538579
+    second: Effect Plasma_6
+  - first:
+      213: -3853721717107336549
+    second: Effect Plasma_7
+  - first:
+      213: 2531268900433425165
+    second: Effect Plasma_8
+  - first:
+      213: 9009572587788953725
+    second: Effect Plasma_9
+  - first:
+      213: 7692099972124319397
+    second: Effect Plasma_10
+  - first:
+      213: -3526893875525243263
+    second: Effect Plasma_11
+  - first:
+      213: -1360681279947729498
+    second: Effect Plasma_12
+  - first:
+      213: 282574781464459046
+    second: Effect Plasma_13
+  - first:
+      213: -1691881064098471192
+    second: Effect Plasma_14
+  - first:
+      213: -6744992781631827014
+    second: Effect Plasma_15
+  - first:
+      213: -2612390352380219791
+    second: Effect Plasma_16
+  - first:
+      213: -2617358226070527203
+    second: Effect Plasma_17
+  - first:
+      213: -7588746842771529334
+    second: Effect Plasma_18
+  - first:
+      213: -4153580114295836867
+    second: Effect Plasma_19
+  - first:
+      213: 3736825986235971977
+    second: Effect Plasma_20
+  - first:
+      213: 136384191524369958
+    second: Effect Plasma_21
+  - first:
+      213: 6818633805635572151
+    second: Effect Plasma_22
+  - first:
+      213: 993816579294673965
+    second: Effect Plasma_23
+  - first:
+      213: 7044656822083729150
+    second: Effect Plasma_24
+  - first:
+      213: 9131146149488010870
+    second: Effect Plasma_25
+  - first:
+      213: -2404911641530075167
+    second: Effect Plasma_26
+  - first:
+      213: 6357527134890732428
+    second: Effect Plasma_27
+  - first:
+      213: 8131370570429965766
+    second: Effect Plasma_28
+  - first:
+      213: 2159769613383418691
+    second: Effect Plasma_29
+  - first:
+      213: 875002188401591893
+    second: Effect Plasma_30
+  - first:
+      213: -7064659641306492650
+    second: Effect Plasma_31
+  - first:
+      213: 7126462305207635166
+    second: Effect Plasma_32
+  - first:
+      213: 8701638045167543379
+    second: Effect Plasma_33
+  - first:
+      213: -5538170955365756230
+    second: Effect Plasma_34
+  - first:
+      213: -8555752185548519579
+    second: Effect Plasma_35
+  - first:
+      213: 2482063266590317877
+    second: Effect Plasma_36
+  - first:
+      213: 7383842326393164231
+    second: Effect Plasma_37
+  - first:
+      213: 3310264712562046902
+    second: Effect Plasma_38
+  - first:
+      213: 454916341714726197
+    second: Effect Plasma_39
+  - first:
+      213: 3818637226595207942
+    second: Effect Plasma_40
+  - first:
+      213: -2957367541331922007
+    second: Effect Plasma_41
+  - first:
+      213: -5088115332598460921
+    second: Effect Plasma_42
+  - first:
+      213: -5276962754374506419
+    second: Effect Plasma_43
+  - first:
+      213: 9115390772169007480
+    second: Effect Plasma_44
+  - first:
+      213: 8269791759840013312
+    second: Effect Plasma_45
+  - first:
+      213: -5078275675522485082
+    second: Effect Plasma_46
+  - first:
+      213: -3587455878768911100
+    second: Effect Plasma_47
+  - first:
+      213: 7008606156953900358
+    second: Effect Plasma_48
+  - first:
+      213: 3751225804643591617
+    second: Effect Plasma_49
+  - first:
+      213: 7132200682360587779
+    second: Effect Plasma_50
+  - first:
+      213: 4876537025734464741
+    second: Effect Plasma_51
+  - first:
+      213: -4090310128908037782
+    second: Effect Plasma_52
+  - first:
+      213: 8478724857990467241
+    second: Effect Plasma_53
+  - first:
+      213: 5244432403022958021
+    second: Effect Plasma_54
+  - first:
+      213: -6918838001243563160
+    second: Effect Plasma_55
+  - first:
+      213: 6066168869528440421
+    second: Effect Plasma_56
+  - first:
+      213: -6200329824995464130
+    second: Effect Plasma_57
+  - first:
+      213: 5538258570514920889
+    second: Effect Plasma_58
+  - first:
+      213: -1857131235935442807
+    second: Effect Plasma_59
+  - first:
+      213: -1726846269000818207
+    second: Effect Plasma_60
+  - first:
+      213: -6653324143740473115
+    second: Effect Plasma_61
+  - first:
+      213: -291420750457295249
+    second: Effect Plasma_62
+  - first:
+      213: 1319992469258442625
+    second: Effect Plasma_63
+  - first:
+      213: -1812309377659452871
+    second: Effect Plasma_64
+  - first:
+      213: 1130693942911278895
+    second: Effect Plasma_65
+  - first:
+      213: 6824844782329519295
+    second: Effect Plasma_66
+  - first:
+      213: 6588650573208135514
+    second: Effect Plasma_67
+  - first:
+      213: 6557848219867171643
+    second: Effect Plasma_68
+  - first:
+      213: 6144703889157657582
+    second: Effect Plasma_69
+  - first:
+      213: 532358917774623907
+    second: Effect Plasma_70
+  - first:
+      213: 1091906235483726041
+    second: Effect Plasma_71
+  - first:
+      213: 8359239247594637204
+    second: Effect Plasma_72
+  - first:
+      213: -334870085149849862
+    second: Effect Plasma_73
+  - first:
+      213: 8107744163523518573
+    second: Effect Plasma_74
+  - first:
+      213: -6907491193836225708
+    second: Effect Plasma_75
+  - first:
+      213: -2636136345436267068
+    second: Effect Plasma_76
+  - first:
+      213: -7046696713886129353
+    second: Effect Plasma_77
+  - first:
+      213: 5923486502461342378
+    second: Effect Plasma_78
+  - first:
+      213: 3425308270576617788
+    second: Effect Plasma_79
+  - first:
+      213: -7556845557996212202
+    second: Effect Plasma_80
+  - first:
+      213: -4089426691609234232
+    second: Effect Plasma_81
+  - first:
+      213: -3496787428071599541
+    second: Effect Plasma_82
+  - first:
+      213: -1015595030463771987
+    second: Effect Plasma_83
+  - first:
+      213: -832718515276158081
+    second: Effect Plasma_84
+  - first:
+      213: 5781176028541476689
+    second: Effect Plasma_85
+  - first:
+      213: -2112023438469762789
+    second: Effect Plasma_86
+  - first:
+      213: -601465157982644348
+    second: Effect Plasma_87
+  - first:
+      213: -3250664905407751300
+    second: Effect Plasma_88
+  - first:
+      213: 4588457536640812259
+    second: Effect Plasma_89
+  - first:
+      213: -5466448650308264184
+    second: Effect Plasma_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect Plasma_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 913
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e4e2c5f515bb10800000000000000
+      internalID: 1996526155089634166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 913
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db01071ed530a4f0800000000000000
+      internalID: -819595904196473903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 913
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16539f9058bbdce90800000000000000
+      internalID: -7003735665418881695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 906
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e783474949228e470800000000000000
+      internalID: 8424021124537661566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 906
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e6130d8f3a4960800000000000000
+      internalID: 7586946397133791734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 906
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c8bab3bc60bc00800000000000000
+      internalID: 914350243543827646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 906
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975dd0b8ba201c40800000000000000
+      internalID: 5480927719239538579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 906
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9adb942484d48ac0800000000000000
+      internalID: -3853721717107336549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 906
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f35957afd02320800000000000000
+      internalID: 2531268900433425165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_9
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 906
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e149a88e680d70800000000000000
+      internalID: 9009572587788953725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 805
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae134f8b24dfba60800000000000000
+      internalID: 7692099972124319397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 805
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e21dcd4b4fd0fc0800000000000000
+      internalID: -3526893875525243263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 805
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a51138c593ed1de0800000000000000
+      internalID: -1360681279947729498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 805
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6273caf3448ebe300800000000000000
+      internalID: 282574781464459046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 805
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2633cd22b3588e0800000000000000
+      internalID: -1691881064098471192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 805
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d2463dc8f462a0800000000000000
+      internalID: -6744992781631827014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_16
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 805
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e28b7c0dceebbd0800000000000000
+      internalID: -2612390352380219791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 805
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ae1d8f864dabd0800000000000000
+      internalID: -2617358226070527203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_18
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 805
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a816c3214fa5fa690800000000000000
+      internalID: -7588746842771529334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 805
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f254584e48b56c0800000000000000
+      internalID: -4153580114295836867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 711
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9893b099f6fdbd330800000000000000
+      internalID: 3736825986235971977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 711
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f9c813b884e100800000000000000
+      internalID: 136384191524369958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d06ec157a0ae50800000000000000
+      internalID: 6818633805635572151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb0c4d9eebacd00800000000000000
+      internalID: 993816579294673965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef635d43e06a3c160800000000000000
+      internalID: 7044656822083729150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a8684b0958be70800000000000000
+      internalID: 9131146149488010870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_26
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 711
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7f5629a9900aed0800000000000000
+      internalID: -2404911641530075167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_27
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba11dde397a3850800000000000000
+      internalID: 6357527134890732428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_28
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52b83b37e68d070800000000000000
+      internalID: 8131370570429965766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c66a350b09fd10800000000000000
+      internalID: 2159769613383418691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 609
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556cd59bad1a42c00800000000000000
+      internalID: 875002188401591893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 609
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61153e48c7945fd90800000000000000
+      internalID: -7064659641306492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 609
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edccc1f75b746e260800000000000000
+      internalID: 7126462305207635166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 609
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3546c36e2bd62c870800000000000000
+      internalID: 8701638045167543379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 609
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d90ccbd67423b0800000000000000
+      internalID: -5538170955365756230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 609
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567cb12b7bcd34980800000000000000
+      internalID: -8555752185548519579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_36
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 609
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5923f36f027220800000000000000
+      internalID: 2482063266590317877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 609
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1982e797da87660800000000000000
+      internalID: 7383842326393164231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_38
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 609
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b775c0b73c60fd20800000000000000
+      internalID: 3310264712562046902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_39
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 609
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2d66a000305600800000000000000
+      internalID: 454916341714726197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 508
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4a4953568ef430800000000000000
+      internalID: 3818637226595207942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 508
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f3a4d3e155f6d0800000000000000
+      internalID: -2957367541331922007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 508
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e004020126369b0800000000000000
+      internalID: -5088115332598460921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 508
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d486a8c555674c6b0800000000000000
+      internalID: -5276962754374506419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_44
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 508
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e104ac9f508e70800000000000000
+      internalID: 9115390772169007480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_45
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 508
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c67b35ac334c270800000000000000
+      internalID: 8269791759840013312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_46
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 508
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b9f0dd275689b0800000000000000
+      internalID: -5078275675522485082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_47
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 508
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d979aa2ebc63ec0800000000000000
+      internalID: -3587455878768911100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_48
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 508
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6455ad3aa22934160800000000000000
+      internalID: 7008606156953900358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_49
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 508
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56f069ef70f0430800000000000000
+      internalID: 3751225804643591617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 406
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c6ea8bbaaaf260800000000000000
+      internalID: 7132200682360587779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 406
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e451f08690fca340800000000000000
+      internalID: 4876537025734464741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 406
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a611141fb9c4c37c0800000000000000
+      internalID: -4090310128908037782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 406
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aecbcc065b7aa570800000000000000
+      internalID: 8478724857990467241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_54
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 406
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd4bbefb77f7c840800000000000000
+      internalID: 5244432403022958021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_55
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 406
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b5765de795bff90800000000000000
+      internalID: -6918838001243563160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_56
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 406
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e86c7627c5f2450800000000000000
+      internalID: 6066168869528440421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_57
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 406
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca2eaffd004f9a0800000000000000
+      internalID: -6200329824995464130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_58
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 406
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5fdc1b3d8dbdc40800000000000000
+      internalID: 5538258570514920889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_59
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 406
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98829ccfaf42a36e0800000000000000
+      internalID: -1857131235935442807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 305
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e16f72b7720908e0800000000000000
+      internalID: -1726846269000818207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 305
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b1dc21f4aaa3a0800000000000000
+      internalID: -6653324143740473115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 305
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea0d81f5aa4fbf0800000000000000
+      internalID: -291420750457295249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_63
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 305
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187175c382e815210800000000000000
+      internalID: 1319992469258442625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 305
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cf79193269d6e0800000000000000
+      internalID: -1812309377659452871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 305
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f99e0862801bf00800000000000000
+      internalID: 1130693942911278895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_66
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 305
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdde18b28b6be50800000000000000
+      internalID: 6824844782329519295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_67
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 305
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57ae35c9c69f6b50800000000000000
+      internalID: 6588650573208135514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_68
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 305
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4c140638220b50800000000000000
+      internalID: 6557848219867171643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_69
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 305
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3143391af564550800000000000000
+      internalID: 6144703889157657582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c7fa7d91536700800000000000000
+      internalID: 532358917774623907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 211
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0aa0e9fea372f00800000000000000
+      internalID: 1091906235483726041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c1697ecbf10470800000000000000
+      internalID: 8359239247594637204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 211
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60db88e6d4a5bf0800000000000000
+      internalID: -334870085149849862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_74
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 211
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e09c2c5e748070800000000000000
+      internalID: 8107744163523518573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_75
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 211
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bb04e4b59a320a0800000000000000
+      internalID: -6907491193836225708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_76
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 211
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd56cee5ff8a6bd0800000000000000
+      internalID: -2636136345436267068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_77
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 211
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a7e87caa153e90800000000000000
+      internalID: -7046696713886129353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_78
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 211
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2870b0793743250800000000000000
+      internalID: 5923486502461342378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_79
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 211
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394de959b3298f20800000000000000
+      internalID: 3425308270576617788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 109
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b52db001b02790800000000000000
+      internalID: -7556845557996212202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c471a737107f37c0800000000000000
+      internalID: -4089426691609234232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 109
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429db66c5ae87fc0800000000000000
+      internalID: -3496787428071599541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_83
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 109
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa0e8d53b1e7e1f0800000000000000
+      internalID: -1015595030463771987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 109
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7be21b1ce69174f0800000000000000
+      internalID: -832718515276158081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_85
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 109
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd73dc7fcda3050800000000000000
+      internalID: 5781176028541476689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_86
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 109
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11f5b86fd590b2e0800000000000000
+      internalID: -2112023438469762789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_87
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 109
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4879ba120aa27a7f0800000000000000
+      internalID: -601465157982644348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_88
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 109
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9755cd7153e2d0800000000000000
+      internalID: -3250664905407751300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_89
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 109
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48072a1d97daf30800000000000000
+      internalID: 4588457536640812259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect Plasma_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f567f3ae54324b0800000000000000
+      internalID: -5466448650308264184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

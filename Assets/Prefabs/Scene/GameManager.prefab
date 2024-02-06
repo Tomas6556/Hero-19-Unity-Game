@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5647551453654791101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8021708034499623297}
+  - component: {fileID: 3387118704199299202}
+  m_Layer: 0
+  m_Name: Player3 Stats
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &8021708034499623297
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5647551453654791101}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4698972697853683387}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3387118704199299202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5647551453654791101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caba53f764d97b44ca774d78193f4d79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Daniel
+  playerLevel: 3
+  currentEXP: 544
+  expToNextLevel: 
+  mpLvLBonus: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 0
+  maxHP: 150
+  currentMP: 0
+  maxMP: 15
+  strength: 22
+  defence: 16
+  wpnPwr: 0
+  armorPwr: 0
+  equippedWpn: 
+  equippedArmr: 
+  charImage: {fileID: 0}
+--- !u!1 &5981504734610878698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4698972697853683387}
+  - component: {fileID: 504420778440682284}
+  - component: {fileID: 788919801}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4698972697853683387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5981504734610878698}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -77.520294, y: -16.343063, z: -320.7914}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3271823377550132621}
+  - {fileID: 971493239281409591}
+  - {fileID: 8021708034499623297}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &504420778440682284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5981504734610878698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b614ae6f486ee645b8906874cd5d744, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats:
+  - {fileID: 5916167162819017872}
+  - {fileID: 4358009966698887693}
+  - {fileID: 3387118704199299202}
+  gameMenuOpen: 0
+  dialogActive: 0
+  fadingBetweenAreas: 0
+  shopActive: 0
+  battleActive: 0
+  itemsHeld:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  numberOfItems: 01000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  referenceItems:
+  - {fileID: 7545398853884342054, guid: 16a40710d7706b841a853b9b0a02fc03, type: 3}
+  - {fileID: 2933826642919769000, guid: 0ea53940546ed8e42bf0e903c60178ed, type: 3}
+  - {fileID: 6861045719368912795, guid: 6d31598aaaadb0442a8199f5f063fdc3, type: 3}
+  - {fileID: 8817850538600531215, guid: 1f6506bfde428494aa89d98ff7414b84, type: 3}
+  - {fileID: 7388151162651620111, guid: 9a94f5bb9636d3d46b608c7c801cd533, type: 3}
+  - {fileID: 4652026965021613848, guid: 555b7280424d3bd40890bf871b2cadd4, type: 3}
+  - {fileID: 7388151162651620111, guid: d483fbbdd41e97a449305bbdaf26c0f7, type: 3}
+  - {fileID: 2933826642919769000, guid: 0b87ed83f3d77674095903820e220145, type: 3}
+  currentGold: 100
+--- !u!114 &788919801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5981504734610878698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b469b01023a9edb4c95cfacee77b9211, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - CompleteTutorial
+  - ReadTheSigns
+  - Find EQ
+  - FirstFight
+  - FindPoliceman
+  - VisitShop
+  - Level Up to 15
+  - GoToHospital
+  - Level Up to 25
+  - DefeateTheFinallBoss
+  questMarkersComplete: 00000000000000000000
+--- !u!1 &7497418096072004392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 971493239281409591}
+  - component: {fileID: 4358009966698887693}
+  m_Layer: 0
+  m_Name: Player2 Stats
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &971493239281409591
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7497418096072004392}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4698972697853683387}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4358009966698887693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7497418096072004392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caba53f764d97b44ca774d78193f4d79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Daniel
+  playerLevel: 3
+  currentEXP: 544
+  expToNextLevel: 
+  mpLvLBonus: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 0
+  maxHP: 150
+  currentMP: 0
+  maxMP: 15
+  strength: 22
+  defence: 16
+  wpnPwr: 0
+  armorPwr: 0
+  equippedWpn: 
+  equippedArmr: 
+  charImage: {fileID: 21300000, guid: afb959ea904e5a444a321588e329131b, type: 3}
+--- !u!1 &8492004744894639980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3271823377550132621}
+  - component: {fileID: 5916167162819017872}
+  m_Layer: 0
+  m_Name: Player1 Stats
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3271823377550132621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8492004744894639980}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4698972697853683387}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5916167162819017872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8492004744894639980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caba53f764d97b44ca774d78193f4d79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Gabriel
+  playerLevel: 1
+  currentEXP: 500
+  expToNextLevel: 
+  mpLvLBonus: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 150
+  maxHP: 150
+  currentMP: 30
+  maxMP: 30
+  strength: 4
+  defence: 6
+  wpnPwr: 0
+  armorPwr: 0
+  equippedWpn: 
+  equippedArmr: 
+  charImage: {fileID: 21300000, guid: c10faf3b130e07f489381f3f01fb7157, type: 3}
